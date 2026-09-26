@@ -34,4 +34,4 @@ I take ML from problem framing to production: defining the right metric, buildin
 **Analysis:** Causal inference (DiD) · A/B testing · Tableau · Looker Studio  
 **Languages:** English · 繁體中文
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/hsiu-wen-cheng/) · [chenghsiuwen.tw@gmail.com](mailto:chenghsiuwen.tw@gmail.com)
+**Contact:** [Website](https://cocochengtw.github.io) · [LinkedIn](https://www.linkedin.com/in/hsiu-wen-cheng/) · [chenghsiuwen.tw@gmail.com](mailto:chenghsiuwen.tw@gmail.com)
