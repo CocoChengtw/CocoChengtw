@@ -15,6 +15,7 @@ I take ML from problem framing to production: defining the right metric, buildin
 
 | Project | What it shows |
 |---|---|
+| [**Smishing Scam-Type Classifier**](https://github.com/CocoChengtw/smishing-scam-type-classifier) | Multilingual scam-type classification on 34k public smishing messages; template-aware splits expose a 3-point leakage gap, and confidence routing auto-labels 60% of traffic at 96.8% accuracy |
 | [**Food-101 CV Benchmark**](https://github.com/CocoChengtw/food101-cv-models) | Systematic comparison of 14 architectures (ResNet → ConvNeXt → ViT); ConvNeXt-Base reached 87.9% top-1 with full fine-tuning |
 | [**Deepfake Detection**](https://github.com/CocoChengtw/DeepfakeDetection) | CNN forgery detection on public data, with threshold tuning from ROC/PR analysis |
 | [**Lip-Sync Deepfake Detection**](https://github.com/CocoChengtw/LipsyncDetection) | LLM-guided video preprocessing; documents each iteration from 23% to 58% F1 |
