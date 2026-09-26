@@ -6,7 +6,7 @@ I take ML from problem framing to production: defining the right metric, buildin
 
 - **Trust & Safety / Fraud** — Senior DS at Trend Micro (scam SMS classification, deepfake detection); Data Scientist Intern at TikTok Integrity & Safety
 - **Experimentation & causal inference** — Scaled experimentation and campaign measurement for 200+ stakeholders at Far EasTone (~$430K/year value)
-- **Offline RL for health** — PI on an NIH-funded project applying offline reinforcement learning to personalized CGM wear scheduling
+- **Health AI: time series & offline RL** — CGM glucose time-series prediction; PI on an NIH-funded project applying offline reinforcement learning to personalized CGM wear scheduling
 - MSBA, UCLA Anderson (2026)
 
 ---
@@ -29,7 +29,7 @@ I take ML from problem framing to production: defining the right metric, buildin
 ---
 
 ### Toolkit
-**ML:** PyTorch · Hugging Face · scikit-learn · offline RL (CQL, FQE)  
+**ML:** PyTorch · Hugging Face · scikit-learn · time-series forecasting (LSTM) · offline RL (CQL, FQE)  
 **Data & MLOps:** Spark · Airflow · Snowflake · Databricks · FastAPI · Docker  
 **Analysis:** Causal inference (DiD) · A/B testing · Tableau · Looker Studio  
 **Languages:** English · 繁體中文
