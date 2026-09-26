@@ -16,6 +16,7 @@ I take ML from problem framing to production: defining the right metric, buildin
 | Project | What it shows |
 |---|---|
 | [**Smishing Scam-Type Classifier**](https://github.com/CocoChengtw/smishing-scam-type-classifier) | Multilingual scam-type classification on 34k public smishing messages; template-aware splits expose a 3-point leakage gap, and confidence routing auto-labels 60% of traffic at 96.8% accuracy |
+| [**Multi-Agent Dispatch QA (team)**](https://github.com/ucla-msba-s3/seewees-ai-agents-s3) | 4-person UCLA MSBA project extending a LangGraph demo into an audited multi-agent pipeline for specialty-medicine logistics. I built the deterministic AuditAgent (7 rules; failed plans loop back to the planner), the what-if ScenarioAgent, audit routing in the graph, a Gemini backend with an LLM call-budget guard, and tests |
 | [**Food-101 CV Benchmark**](https://github.com/CocoChengtw/food101-cv-models) | Systematic comparison of 14 architectures (ResNet → ConvNeXt → ViT); ConvNeXt-Base reached 87.9% top-1 with full fine-tuning |
 | [**Deepfake Detection**](https://github.com/CocoChengtw/DeepfakeDetection) | CNN forgery detection on public data, with threshold tuning from ROC/PR analysis |
 | [**Lip-Sync Deepfake Detection**](https://github.com/CocoChengtw/LipsyncDetection) | LLM-guided video preprocessing; documents each iteration from 23% to 58% F1 |
